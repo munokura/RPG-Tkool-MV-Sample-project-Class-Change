@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,0,46,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":2,"maxLevel":99,"name":"ハロルド","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":7,"characterName":"Actor1","classId":4,"equips":[25,0,0,9,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":2,"maxLevel":99,"name":"テレーゼ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":7,"characterName":"Actor3","classId":2,"equips":[7,0,65,20,0],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":2,"maxLevel":99,"name":"マーシャ","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":6,"characterName":"Actor2","classId":3,"equips":[13,0,0,20,0],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":2,"maxLevel":99,"name":"ルキウス","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"Actor1","classId":7,"equips":[37,0,0,8,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":2,"maxLevel":99,"name":"フレッド","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":1,"characterName":"Actor2","classId":6,"equips":[1,0,0,20,0],"faceIndex":1,"faceName":"Actor2","traits":[],"initialLevel":2,"maxLevel":99,"name":"イリア","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":2,"characterName":"Actor1","classId":5,"equips":[31,0,0,3,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":2,"maxLevel":99,"name":"ヴァイス","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":5,"characterName":"Actor1","classId":8,"equips":[43,43,0,3,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":2,"maxLevel":99,"name":"エリザ","nickname":"","note":"","profile":""}
+]
